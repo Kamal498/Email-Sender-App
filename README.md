@@ -1,1 +1,1 @@
-# Email-Sender-App
+# Email Sender App- API
